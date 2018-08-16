@@ -1,0 +1,3 @@
+Testando edição no proprio terminal do git.
+
+Para editar algum arquivo diretamente pelo terminal do git bash, basta digitar vi arquivo.txt, clicar na letra i para inserir a edição e quando terminar clicar em esc, :, w, q.
