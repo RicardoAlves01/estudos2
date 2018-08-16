@@ -1,1 +1,1 @@
-Repositorio destinado a testes e estudos relacionados ou GIT
+Repositorio destinado a testes e estudos relacionados ao GIT
