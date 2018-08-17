@@ -1,9 +1,0 @@
-Sub First()
-
-Dim x As Integer
-
-x = 1
-
-Plan1.Range("A" & x) = "Hello World"
-
-End Sub
